@@ -22,7 +22,7 @@ win10toast==0.9
 Counter==1.0.0
 Flask==3.1.1
 selenium==4.34.2
-firebase-admin==7.0.0
+firebase-admin==7.1.0
 ujson==5.10.0
 requests==2.32.4
 quo==2023.5.1
@@ -81,7 +81,7 @@ Unidecode==1.4.0
 Ball==0.2.9
 pynput==1.8.1
 gTTS==2.5.4
-ccxt==4.4.97
+ccxt==4.4.98
 fitz==0.0.1.dev2
 fastapi==0.116.1
 Django==5.1.7
